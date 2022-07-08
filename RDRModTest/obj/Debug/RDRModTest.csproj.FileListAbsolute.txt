@@ -1,0 +1,8 @@
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\bin\Debug\RDRModTest.dll
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\bin\Debug\RDRModTest.pdb
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\bin\Debug\ScriptHookRDRNetAPI.dll
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\obj\Debug\RDRModTest.csprojAssemblyReference.cache
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\obj\Debug\RDRModTest.csproj.CoreCompileInputs.cache
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\obj\Debug\RDRModTest.csproj.CopyComplete
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\obj\Debug\RDRModTest.dll
+C:\Users\delreylove\source\repos\RDRModTest\RDRModTest\obj\Debug\RDRModTest.pdb
